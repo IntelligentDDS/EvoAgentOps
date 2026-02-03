@@ -13,9 +13,7 @@ Agent systems are transforming enterprise workflows, with industry reports predi
 EvoAgentOps addresses these challenges through:
 - **Evidence-based Evaluation** with hierarchical fault taxonomy (4 layers, 26 types) and binary check criteria
 - **Bidirectional Self-Evolution** enabling co-evolution of both agent systems and judges
-- **Automatic Judge Verification** via fault injection into successful traces
-
-![01framework](./docs/01framework.png)
+- **Automatic Judge Verification** via fault injection into successful trace
 
 ## 🏗️ Project Structure
 
@@ -95,5 +93,7 @@ Our evaluation shows:
 - **Up to 90% step-level accuracy** with joint evaluation (baselines < 35%)
 - **75% improvement in Pass@1** with execution principle augmentation
 - **Over 60% compression rate** in principle management while preserving knowledge
+
+![01framework](./docs/01framework.png)
 
 ![03e2e_example](./docs/03e2e_example.png)
