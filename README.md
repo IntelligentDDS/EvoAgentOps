@@ -15,13 +15,13 @@ EvoAgentOps addresses these challenges through:
 - **Bidirectional Self-Evolution** enabling co-evolution of both agent systems and judges
 - **Automatic Judge Verification** via fault injection into successful traces
 
-<img src="./docs/01framework.png" alt="01framework.png" width="50%">
+![01framework](./docs/01framework.png)
 
-<img src="./docs/03e2e_example.png" alt="03e2e_example.png" width="50%">
+![03e2e_example](./docs/03e2e_example.png)
 
 ## 🏗️ Project Structure
 
-```
+```bash
 .
 ├── README.md                          
 ├── pyproject.toml                     # Python project configuration
