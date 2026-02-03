@@ -17,8 +17,6 @@ EvoAgentOps addresses these challenges through:
 
 ![01framework](./docs/01framework.png)
 
-![03e2e_example](./docs/03e2e_example.png)
-
 ## 🏗️ Project Structure
 
 ```bash
@@ -97,3 +95,5 @@ Our evaluation shows:
 - **Up to 90% step-level accuracy** with joint evaluation (baselines < 35%)
 - **75% improvement in Pass@1** with execution principle augmentation
 - **Over 60% compression rate** in principle management while preserving knowledge
+
+![03e2e_example](./docs/03e2e_example.png)
