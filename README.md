@@ -1,4 +1,4 @@
-# EvoAgentOps: A Principle-Based Bidirectional Self-Evolution Framework for Agent System Evaluation and Optimization
+# EvoAgentOps: Self-Evolving Agent Evaluation and Optimization via Principle Learning
 
 This repository provides the official implementation of **EvoAgentOps**, a novel framework for agent system evaluation and optimization through bidirectional self-evolution. Our work addresses the critical limitations in current agent evaluation methods, enabling step-level fault localization, interpretable evaluation, and co-evolution of both agent systems and judges.
 
