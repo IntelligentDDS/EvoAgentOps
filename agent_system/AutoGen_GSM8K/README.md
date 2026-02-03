@@ -1,0 +1,1 @@
+# https://microsoft.github.io/autogen/stable//user-guide/core-user-guide/design-patterns/multi-agent-debate.html
